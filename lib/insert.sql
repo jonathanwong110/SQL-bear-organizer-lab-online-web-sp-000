@@ -1,5 +1,5 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (1, "A", 1, "M", "brown", "calm", 1)
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (2, "B", 2, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (1, "A", 1, "M", "brown", "calm", true)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (2, "B", 2, "M", "brown", "calm", true)
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (3, "C", 1, "M", "brown", "calm", 1)
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (4, "D", 2, "M", "brown", "calm", 1)
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (5, "E", 1, "F", "brown", "calm", 1)
